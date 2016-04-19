@@ -1,11 +1,14 @@
 #include <iostream>
+#include <conio.h>
 
 using namespace std;
 using namespace System;
 
 //Método de prueba
 int suma(int, int){
+	_asm{
 
+	}
 }
 
 
